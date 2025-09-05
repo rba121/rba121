@@ -4,9 +4,7 @@
 
 # 👋 Hi, I’m Rohit Bhardwaj  
 
-🎓 Undergraduate Computer Engineering student at Simon Fraser University  
-🔧 Passionate about Embedded Systems, FPGA Development, and Edge AI  
-📚 Currently working on real-time systems & hardware/software co-design  
+I am an undergraduate Computer Engineering student at Simon Fraser University with a strong interest in embedded systems, FPGA development, and Edge AI. I am passionate about building real-time systems and exploring the intersection of hardware and software through co-design. I enjoy tackling challenging problems that require both low-level optimization and high-level system integration, and I’m always looking for opportunities to learn and contribute to impactful technology projects.
 
 ## 🚀 Highlighted Projects
 - 🎱 **FPGA Pool Game** – Real-time 8-ball pool simulation on ZedBoard with VGA graphics  
