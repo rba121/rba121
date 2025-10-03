@@ -11,6 +11,6 @@ I am an undergraduate Computer Engineering student at Simon Fraser University wi
 - 🔥 **HOTSPOT3D Acceleration** – FPGA-based thermal modeling kernel optimization  
 
 ## 📫 How to reach me
-- [LinkedIn]([https://linkedin.com/in/rohitbhardwajsindia])  
+- [LinkedIn](https://linkedin.com/in/rohitbhardwajsindia)  
 - [GitHub](https://github.com/rba121)
 
