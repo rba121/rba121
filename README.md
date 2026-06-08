@@ -1,9 +1,6 @@
 # Hi, I'm Rohit Bhardwaj
 
-Computer Engineering student at Simon Fraser University,
-interested in systems programming, full-stack development, data analytics, and
-hardware-software co-design. I like building things end-to-end — from GPU kernels
-to web apps to embedded firmware.
+I am a **Computer Engineering student at Simon Fraser University**, passionate about systems programming, embedded infrastructure, data analytics, and hardware-software co-design. I love building things end-to-end — from custom GPU kernels and autonomous robotics to full-stack web applications.
 
 
 ## 🔦 Highlighted Projects
@@ -13,8 +10,13 @@ to web apps to embedded firmware.
 - **[Payments Fraud Detection Dashboard](https://github.com/rba121/Payments-Fraud-Detection)** — Python/SQL/Pandas dashboard for detecting and visualizing payment fraud patterns
 
 
-## ⚡ Skills
-`C/C++` `Java` `Python` `SQL` `VHDL` `CUDA` `ROS2` `PyTorch` `FreeRTOS` `ESP32` `Vitis HLS` `MATLAB` `FastAPI` `PostgreSQL` `Docker` `Pandas`
+## ⚡ Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `C/C++`, `Python`, `SQL`, `Java`, `VHDL`, `Assembly` |
+| **Systems & Hardware** | `CUDA`, `ROS2`, `FreeRTOS`, `ESP32`, `Vitis HLS`, `Raspberry Pi` |
+| **Frameworks & Tools** | `FastAPI`, `PyTorch`, `Docker`, `PostgreSQL`, `Pandas`, `Git` |
 
 ## 📫 Contact
 [LinkedIn](https://linkedin.com/in/rohitbhardwajsindia) · [GitHub](https://github.com/rba121) · rohitbhardwajsindia@gmail.com
