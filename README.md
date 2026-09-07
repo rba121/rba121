@@ -7,7 +7,7 @@ I am a **Computer Engineering student at Simon Fraser University**, passionate a
 
 - **[CUDANet](https://github.com/rba121/CUDANet)** — From-scratch neural network framework in CUDA C++ with custom GPU kernels, 40% faster than CPU baseline
 - **[Study Quest](https://github.com/R433N/user_service)** — Full-stack study tracking web app (FastAPI/PostgreSQL/Docker) built in an Agile team; contributed the Weekly Study Report analytics feature
-- **[Payments Fraud Detection Dashboard](https://github.com/rba121/Payments-Fraud-Detection)** — Python/SQL/Pandas dashboard for detecting and visualizing payment fraud patterns
+
 
 
 ## ⚡ Tech Stack
