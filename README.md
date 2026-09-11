@@ -5,6 +5,7 @@ I am a **Computer Engineering student at Simon Fraser University**, passionate a
 
 ## 🔦 Highlighted Projects
 
+- **[MailRover](https://github.com/rba121/mailRover)** — Autonomous indoor delivery robot using ROS 2, Nav2, LiDAR, and Raspberry Pi 5.
 - **[CUDANet](https://github.com/rba121/CUDANet)** — From-scratch neural network framework in CUDA C++ with custom GPU kernels, 40% faster than CPU baseline
 - **[Study Quest](https://github.com/R433N/user_service)** — Full-stack study tracking web app (FastAPI/PostgreSQL/Docker) built in an Agile team; contributed the Weekly Study Report analytics feature
 
